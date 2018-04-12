@@ -1,0 +1,8 @@
+******** Docker and Selenium *************
+http://www.testautomationguru.com/category/docker/
+
+******** Selenium *******************
+http://www.testautomationguru.com/category/webdriver/
+
+******** Arquillian ***************
+http://www.testautomationguru.com/selenium-webdriver-automation-using-arquillian-framework/
